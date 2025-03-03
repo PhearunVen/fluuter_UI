@@ -8,4 +8,7 @@ flutter pub get
 
 if  include: package:flutter_lints/flutter.yaml  error 
 
-plz run this in teminal:  flutter pub add dev:flutter_lints
+plz run this in teminal: 
+```
+flutter pub add dev:flutter_lints
+```
